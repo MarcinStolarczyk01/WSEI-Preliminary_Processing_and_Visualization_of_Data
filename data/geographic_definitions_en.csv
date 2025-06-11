@@ -1,0 +1,16 @@
+Code,Definition
+CC5_13_FOR_X_IS,5 candidate countries for EU accession in 2013
+CC5_15_FOR,5 candidate countries for EU accession in 2015
+CC8_22_FOR,8 candidate countries for EU accession in 2022
+CC9_23_FOR,9 candidate countries for EU accession in 2023
+EFTA_FOR,Countries belonging to the EFTA group
+EU27_2020_FOR,27 EU member states after Brexit
+EU28_FOR,28 EU member states before Brexit
+EXT_FOR_HDI,Non-EU countries classified by HDI
+EXT_FOR_HDI_H,Non-EU countries with high HDI
+EXT_FOR_HDI_L,Non-EU countries with low HDI
+EXT_FOR_HDI_M,Non-EU countries with medium HDI
+EXT_FOR_HDI_VH,Non-EU countries with very high HDI
+NAT,NATO member countries
+NEU27_2020_FOR,Non-EU27 countries
+NEU28_FOR,Non-EU28 countries
